@@ -64,9 +64,6 @@ The project was compiled with java-11.0.5.
 
 MVC architecture was implemented.
 
-### Sample Run
-![Imgur](readmeResources/new.gif)
-
 ### Labour division
 #####  *Mariette Magdi 6147*
 Gui+View
