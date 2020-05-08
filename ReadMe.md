@@ -68,18 +68,11 @@ MVC architecture was implemented.
 ![Imgur](readmeResources/new.gif)
 
 ### Labour division
-#####  *```INSERT NAME``` 6147*
-task
-##### *```INSERT NAME```  6369*
-task
+#####  *Mariette Magdi 6147*
+Gui+View
+##### *Merna Selim  6369*
+Gui+View
 ##### *Nourhan Waleed     6609*
-task
-##### *```INSERT NAME```  6628*
-task
-
-### UML
-![URL TO UML HERE](readmeResources/file.jpg)
-
-### Sequence diagram
-![URL TO SEQ HERE](readmeResources/File.jpg)
-
+Model+main
+##### *Theodora George 6628*
+Controller
