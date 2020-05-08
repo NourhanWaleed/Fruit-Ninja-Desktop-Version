@@ -1,0 +1,24 @@
+#Back{
+    -fx-background-size: 50;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box,  #5E311A, 10, 0.1, 0, 0);
+    -fx-background-image: url("../resources/Buttons/back.png");
+    -fx-background-repeat: no-repeat;
+ 
+}
+#Reset{
+    -fx-background-size: 50;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box,  #5E311A, 10, 0.1, 0, 0);
+    -fx-background-image: url("../resources/Buttons/reset.png");
+    -fx-background-repeat: no-repeat;
+ 
+}
+#Save{
+    -fx-background-size: 50;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box,  #5E311A, 10, 0.1, 0, 0);
+    -fx-background-image: url("../resources/Buttons/save.png");
+    -fx-background-repeat: no-repeat;
+ 
+}

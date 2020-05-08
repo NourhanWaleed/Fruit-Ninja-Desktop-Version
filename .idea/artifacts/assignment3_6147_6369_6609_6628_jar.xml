@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="assignment3_6147_6369_6609_6628:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/assignment3_6147_6369_6609_6628_jar</output-path>
+    <root id="root">
+      <element id="archive" name="assignment3_6147_6369_6609_6628.jar">
+        <element id="module-output" name="assignment3_6147_6369_6609_6628" />
+      </element>
+      <element id="library" level="project" name="javafx" />
+      <element id="library" level="application" name="JavaFX-11" />
+    </root>
+  </artifact>
+</component>

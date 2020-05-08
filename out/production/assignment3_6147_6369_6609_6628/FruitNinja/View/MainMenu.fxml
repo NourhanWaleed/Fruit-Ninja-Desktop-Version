@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="Mainbg" prefHeight="563.0" prefWidth="710.0" stylesheets="@mainMenu.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="FruitNinja.Controller.MainMenuController">
+   <children>
+       <Button id="Normalbtn" fx:id="easybutton" layoutX="117.0" layoutY="407.0" mnemonicParsing="false" onAction="#easybutton" prefHeight="49.0" prefWidth="128.0" style="-fx-background-color: transparent;" text="Easy" textFill="#88ce29">
+         <font>
+            <Font size="24.0" />
+         </font></Button>
+       <Button id="Normalbtn" fx:id="mediumbutton" layoutX="293.0" layoutY="407.0" mnemonicParsing="false" onAction="#mediumbutton" prefHeight="49.0" prefWidth="128.0" style="-fx-background-color: transparent;" text="Normal" textFill="#ffc930">
+         <font>
+            <Font size="24.0" />
+         </font></Button>
+       <Button id="Normalbtn" fx:id="hardbutton" layoutX="469.0" layoutY="407.0" mnemonicParsing="false" onAction="#hardbutton" prefHeight="49.0" prefWidth="128.0" style="-fx-background-color: transparent;" text="Hard">
+         <font>
+            <Font size="25.0" />
+         </font>
+         <textFill>
+            <LinearGradient endY="1.0" startX="1.0">
+               <stops>
+                  <Stop color="#8000ff" />
+                  <Stop color="#8000ff" offset="0.007246376811594203" />
+                  <Stop color="#af00ff" offset="0.2898550724637681" />
+                  <Stop color="#005aff" offset="0.6847826086956522" />
+                  <Stop color="#ae00ff" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </textFill></Button>
+       <Button id="Normalbtn" fx:id="randombutton" layoutX="117.0" layoutY="471.0" mnemonicParsing="false" onAction="#randombutton" prefHeight="49.0" prefWidth="128.0" style="-fx-background-color: transparent;" text="Random">
+         <font>
+            <Font size="21.0" />
+         </font>
+         <textFill>
+            <LinearGradient endX="1.0" endY="1.0">
+               <stops>
+                  <Stop color="RED" />
+                  <Stop color="#3b16b8" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </textFill></Button>
+       <Button id="Normalbtn" fx:id="exitbutton" layoutX="469.0" layoutY="471.0" mnemonicParsing="false" onAction="#exitbutton" prefHeight="49.0" prefWidth="128.0" style="-fx-background-color: transparent;" text="Exit" textFill="WHITE">
+         <font>
+            <Font size="21.0" />
+         </font></Button>
+       <ImageView fx:id="mainMenu" fitHeight="349.0" fitWidth="699.0" layoutX="117.0" layoutY="32.0" pickOnBounds="true" preserveRatio="true">
+    </ImageView>
+       <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="17.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true" />
+       <Button id="Normalbtn" fx:id="loadGame" layoutX="293.0" layoutY="471.0" mnemonicParsing="false" onAction="#loadGame" prefHeight="49.0" prefWidth="128.0" style="-fx-background-color: transparent;" text="Load Game" textFill="WHITE">
+         <font>
+            <Font size="21.0" />
+         </font></Button>
+       <Button id="Normalbtn" fx:id="arcade" layoutX="117.0" layoutY="14.0" mnemonicParsing="false" onAction="#arcadeButton" prefHeight="49.0" prefWidth="128.0" style="-fx-background-color: transparent;" text="Arcade">
+         <font>
+            <Font size="27.0" />
+         </font>
+         <textFill>
+            <LinearGradient endX="1.0" endY="1.0">
+               <stops>
+                  <Stop color="RED" />
+                  <Stop color="#ff8400" offset="0.6487638533674339" />
+                  <Stop color="#ff8400" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </textFill></Button>
+   </children>
+</AnchorPane>

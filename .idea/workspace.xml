@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="assignment3_6147_6369_6609_6628:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5dc1044e-e0af-4fbc-9d53-14c5d4392bae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/assignment3_6147_6369_6609_6628_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Controller/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Controller/CustomComponents/ShakeOnHover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Controller/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Controller/MainMenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Model/Definitions/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Model/Definitions/IGameActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Model/Difficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Model/GameActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Model/GameObjects/DangerousBomb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Model/GameObjects/Factory/GameObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Model/GameObjects/FatalBomb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Model/GameObjects/GameObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Model/GameObjects/RegularFruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Model/Loader/Commands/LoadCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Model/Loader/Commands/loadHighScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Model/Loader/SaveLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/Model/Remote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/View/Game.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/View/Game.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/View/MainMenu.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/View/mainMenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Audio/Game-start.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Audio/GameOver.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Audio/explode.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Audio/fail.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Audio/impact.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Audio/slicefruit.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Audio/ui-button-push.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Buttons/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Buttons/btnbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Buttons/rbtnbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Buttons/reset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Buttons/save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Fonts/HandDrawnShapes.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Mainmenu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Pomegranate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Special1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Special1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Special2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/Special2s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/WoodenUIbuttons1a481b3z8w997q8c43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/background.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/banana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/bananaS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/bomb0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/bomb1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/bonus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/boom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/depricated/Hard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/depricated/arcade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/depricated/arcade1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/depricated/background1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/depricated/classic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/depricated/easy12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/depricated/newgame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/depricated/normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/depricated/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/depricated/watermelonS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/explosive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/gaemo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/halfbanana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/instructions.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/lives.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/lives2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/mainMenuBg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/slicedapple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/slicedapple2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/slicedbanana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/slicedstrawberry1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/slicedstrawberry2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/slicedwatermelon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/slicedwatermelon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/strawberry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitNinja/resources/watermelon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HighScore.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SavedGame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment3_6147_6369_6609_6628.iml" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3_6147_6369_6609_6628.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Pomegranate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Special1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Special1s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Special2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Special2s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/arcade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/background.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/background1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bananaS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bomb0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bomb1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bonus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/boom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/classic.jpeg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/easy.png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/explosive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/halfbanana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hard.png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/instructions.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/newgame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/normal.png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slicedapple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slicedapple2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slicedbanana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slicedstrawberry1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slicedstrawberry2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slicedwatermelon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slicedwatermelon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/strawberry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/watermelon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/watermelonS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Banana.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/GameObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Watermelon.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bN8h2HsTSnD1VSEb8jyAFAJ5dA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\polit\eclipse-workspace\assignment3_6147_6369_6609_6628\src" />
+      <recent name="C:\Users\polit\eclipse-workspace\assignment3_6147_6369_6609_6628\src\View" />
+      <recent name="C:\Users\polit\eclipse-workspace\assignment3_6147_6369_6609_6628\src\resources\data" />
+      <recent name="C:\Users\polit\eclipse-workspace\assignment3_6147_6369_6609_6628\src\resources\Buttons" />
+      <recent name="C:\Users\user\Desktop\assignment3_6147_6369_6609_6628\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FruitNinja.Main" />
+      <module name="assignment3_6147_6369_6609_6628" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dc1044e-e0af-4fbc-9d53-14c5d4392bae" name="Default Changelist" comment="" />
+      <created>1588461306573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588461306573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="189" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588908151876">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="134" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1588627729672" />
+    <state x="189" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588908151876" />
+    <state x="685" y="107" key="#com.intellij.ide.util.MemberChooser" timestamp="1588772537981">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="485" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728@0.0.1360.728" timestamp="1588616543735" />
+    <state x="685" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1588772537981" />
+    <state x="538" y="270" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588894875153">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="538" y="270" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588894875153" />
+    <state x="410" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588547075564">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1588547075564" />
+    <state x="538" y="225" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1588894297114">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="538" y="225" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588894297114" />
+    <state x="666" y="177" key="FileChooserDialogImpl" timestamp="1588894269022">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="472" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588622488048" />
+    <state x="666" y="177" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1588894269022" />
+    <state width="1923" height="283" key="GridCell.Tab.0.bottom" timestamp="1588908356639">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1316" height="289" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1588630339097" />
+    <state width="1923" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588908356639" />
+    <state width="1923" height="283" key="GridCell.Tab.0.center" timestamp="1588908356638">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1316" height="289" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1588630339096" />
+    <state width="1923" height="283" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588908356638" />
+    <state width="1923" height="283" key="GridCell.Tab.0.left" timestamp="1588908356638">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1316" height="289" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1588630339095" />
+    <state width="1923" height="283" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588908356638" />
+    <state width="1923" height="283" key="GridCell.Tab.0.right" timestamp="1588908356638">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1316" height="289" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1588630339096" />
+    <state width="1923" height="283" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588908356638" />
+    <state width="1867" height="347" key="GridCell.Tab.1.bottom" timestamp="1588680155199">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1867" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588680155199" />
+    <state width="1867" height="347" key="GridCell.Tab.1.center" timestamp="1588680155199">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1867" height="347" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588680155199" />
+    <state width="1867" height="347" key="GridCell.Tab.1.left" timestamp="1588680155199">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1867" height="347" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588680155199" />
+    <state width="1867" height="347" key="GridCell.Tab.1.right" timestamp="1588680155199">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1867" height="347" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588680155199" />
+    <state x="226" y="0" key="SettingsEditor" timestamp="1588894878103">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="160" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1588627699178" />
+    <state x="226" y="0" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1588894878103" />
+    <state x="1111" y="278" key="classpath-attribute-editor" timestamp="1588894361489">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1111" y="278" key="classpath-attribute-editor/0.0.1920.1080@0.0.1920.1080" timestamp="1588894361489" />
+    <state x="375" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1588599257081">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="375" y="186" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1588599257081" />
+    <state x="935" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588908038451">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="935" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1588908038451" />
+    <state x="324" y="0" key="new project wizard" timestamp="1588599324441">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="324" y="0" key="new project wizard/0.0.1360.728@0.0.1360.728" timestamp="1588599324441" />
+    <state x="532" y="246" key="run.anything.popup" timestamp="1588764450764">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="532" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1588764450764" />
+    <state x="484" y="73" width="949" height="1006" key="search.everywhere.popup" timestamp="1588885572016">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1588628160602" />
+    <state x="484" y="73" width="949" height="1006" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1588885572016" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reference/SaveMemento.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

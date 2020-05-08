@@ -1,0 +1,26 @@
+@font-face {
+    font-family: HandDrawnShapes;
+    src: url('../resources/Fonts/HandDrawnShapes.otf');
+}
+
+#Mainbg{
+    -fx-background-image: url("../resources/mainMenuBg.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 713 568;
+    }
+
+#Normalbtn{
+    -fx-font-family: HandDrawnShapes;
+    -fx-background-size: 128 49;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box,  #5E311A, 10, 0.5, 0, 0);
+    -fx-background-image: url("../resources/Buttons/btnbg.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 128 49;
+ 
+}
+
+#Normalbtn:hover{
+    -fx-background-insets: 0, 1, 2;
+    -fx-font-size: 20.0;
+}
